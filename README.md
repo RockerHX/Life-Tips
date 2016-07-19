@@ -1,2 +1,3 @@
-# Life-Tips
-Some Life Tips
+# 生活小常识
+
++ [女生简单的穿衣法则](/1.女生简单的穿衣法则/README.md)
